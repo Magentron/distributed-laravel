@@ -1,5 +1,5 @@
 {
-    "name": "optimus/distributed-laravel",
+    "name": "magentron/distributed-laravel",
     "autoload": {
         "psr-4": {
             "Optimus\\Api\\System\\": "src/"
